@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    This is DAM and thanks to all my students
 
 # TECHNOLOGY COLOPHON
 
